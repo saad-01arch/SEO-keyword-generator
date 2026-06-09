@@ -1,0 +1,171 @@
+{
+  "product": "chikankari kurta",
+  "results": [
+    {
+      "title": "Lucknowi Soft Georgette Kurti",
+      "price": "$10.00",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 4.6,
+      "reviews": 24
+    },
+    {
+      "title": "Handmade Chikankari Kurti Purple Indian Lucknawi Embroidered Handcraft Beautifull Kurti",
+      "price": "$25.99",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 4.4,
+      "reviews": 5
+    },
+    {
+      "title": "Chikankari Dobby Cotton Kurta Set with Lycra Pants",
+      "price": "$39.42",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 3.6,
+      "reviews": 20
+    },
+    {
+      "title": "Lucknowi Chikankari Embroidered Georgette Kurti",
+      "price": "$11.99",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 4.8,
+      "reviews": 13
+    },
+    {
+      "title": "Lucknowi Embroidered Cotton Kurti",
+      "price": "$30.01",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 5.0,
+      "reviews": 6
+    },
+    {
+      "title": "Men's Hand Embroidered Chikankari Kurta",
+      "price": "$20.98",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 4.6,
+      "reviews": 49
+    },
+    {
+      "title": "Chikankari Handwork Premium Mulmul Cotton Floral Kurta",
+      "price": "$28.00",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "title": "Lucknow Chikankari Cotton Kurta On Mal Mal Cotton Floral Print",
+      "price": "$59.99",
+      "seller": "",
+      "source": "Etsy - NyaraHandicraft",
+      "link": "",
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "title": "Chikankari Hand-Embroidered Lucknowi Kurta",
+      "price": "$39.99",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "title": "Mukesh Work Chikankari Embroidery Cotton Kurta Palazzo Set",
+      "price": "$41.68",
+      "seller": "",
+      "source": "Etsy - Seller",
+      "link": "",
+      "rating": 5.0,
+      "reviews": 8
+    }
+  ],
+  "analysis": {
+    "common_words": [
+      [
+        "chikankari",
+        8
+      ],
+      [
+        "cotton",
+        6
+      ],
+      [
+        "kurta",
+        6
+      ],
+      [
+        "kurti",
+        5
+      ],
+      [
+        "lucknowi",
+        4
+      ],
+      [
+        "embroidered",
+        4
+      ],
+      [
+        "georgette",
+        2
+      ],
+      [
+        "set",
+        2
+      ],
+      [
+        "floral",
+        2
+      ],
+      [
+        "mal",
+        2
+      ],
+      [
+        "soft",
+        1
+      ],
+      [
+        "handmade",
+        1
+      ],
+      [
+        "purple",
+        1
+      ],
+      [
+        "indian",
+        1
+      ],
+      [
+        "lucknawi",
+        1
+      ]
+    ],
+    "price_range": {
+      "min": 10.0,
+      "max": 59.99,
+      "average": 30.8,
+      "count": 10
+    },
+    "top_titles": [
+      "Men's Hand Embroidered Chikankari Kurta",
+      "Lucknowi Soft Georgette Kurti",
+      "Chikankari Dobby Cotton Kurta Set with Lycra Pants"
+    ],
+    "total_scraped": 10
+  }
+}
